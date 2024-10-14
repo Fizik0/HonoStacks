@@ -1,0 +1,9 @@
+.
+├── package.json
+├── public
+│   ├── favicon.ico
+│   └── static
+│       └── hello.txt
+├── src
+│   └── index.ts
+└── wrangler.toml
